@@ -1,7 +1,5 @@
 #profile-update-interval: 1
 #profile-title: 🕊FreeCFGHubMEGA
-🏳️ Lite (белые списки)
-
 vless://96a7e834-632f-4f56-82fe-00ed145f0bba@91.219.227.253:80?encryption=none&security=reality&sni=eh.vk.com&fp=qq&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&type=tcp&headerType=none#Lite #001 @FreeCFGHub
 vless://96a7e834-632f-4f56-82fe-00ed145f0bba@91.219.227.203:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&type=tcp&headerType=none#Lite #002 @FreeCFGHub
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&type=tcp&headerType=none#Lite #003 @FreeCFGHub
@@ -143,9 +141,6 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?encryption=none&f
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&type=tcp&headerType=none%2522%252C#Lite #139 @FreeCFGHub
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&type=tcp&headerType=none#Lite #140 @FreeCFGHub
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&type=tcp&headerType=none%3A#Lite #141 @FreeCFGHub
-
-🏴 Full (общий доступ)
-
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#Full #001 @FreeCFGHub
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-2.edgeflux.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#Full #002 @FreeCFGHub
 vless://33721696-83e8-4f97-82e7-be635a4bf5d6@94.241.141.104:40443?encryption=none&security=reality&sni=apple.com&fp=chrome&pbk=e25YgOmXFJguckfjgV98hi2RctsDLUv_zD2p0wrTMCY&sid=74d49a20ce684a97&spx=%2F&type=grpc&authority=apple.com&serviceName=apple-com%2F2265cbcc&mode=gun#Full #003 @FreeCFGHub
