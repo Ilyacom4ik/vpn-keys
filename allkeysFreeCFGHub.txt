@@ -1,7 +1,5 @@
 #profile-update-interval: 1
 #profile-title: 🕊FreeCFGHubMEGA
-🏳️ Lite (белые списки)
-
 vless://320f370f-2302-475d-8bb3-379ee7a9a9b3@147.45.138.10:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#Lite #001 @FreeCFGHub
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&type=tcp&headerType=none#Lite #002 @FreeCFGHub
 vless://6a17d3c4-d673-4bf1-8306-1e997f9a49f7@al.money-cloud.ru:444?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=A9vakvWIdkK56iqCw0A3TscILvUpGicItxIp7Gc28BU&sid=0614355789abcdef&type=grpc&authority=ads.x5.ru&serviceName=ads.x5.ru&mode=gun#Lite #003 @FreeCFGHub
@@ -66,9 +64,6 @@ vless://b74cac0d-3981-4344-af5c-6be7f201cd78@158.160.241.119:443?encryption=none
 vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?encryption=none&security=reality&sni=max.ru&fp=qq&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&sid=8d2faad1099c46&type=tcp&headerType=none#Lite #062 @FreeCFGHub
 vless://e0b41091-6152-438f-a53a-40a7a44c0d66@84.201.177.81:443?encryption=none&security=reality&sni=max.ru&fp=qq&pbk=5ELL4X0tLgwzFLWxEOLtCfYb39NiaLQnZPWKcTPEci4&sid=8d2faad1099c46&spx=%2F&type=tcp&headerType=none#Lite #063 @FreeCFGHub
 vless://55a749bf-e94e-4501-acf6-ed960ef94135@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc&type=tcp&headerType=none#Lite #064 @FreeCFGHub
-
-🏴 Full (общий доступ)
-
 vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mydogcollections.com&fp=random&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366&type=tcp&headerType=none#Full #001 @FreeCFGHub
 vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mydogcollections.com&fp=random&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366&spx=%2F&type=tcp&headerType=none#Full #002 @FreeCFGHub
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none",#Full #003 @FreeCFGHub
