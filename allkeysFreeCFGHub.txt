@@ -1,6 +1,5 @@
 #profile-update-interval: 1
 #profile-title: 🕊FreeCFGHubMEGA
-=== LTE ===
 vless://eff5e09f-567b-4ef7-830f-c64af1e9ea76@188.114.97.6:80?encryption=none&security=none&type=ws&host=web.whatsapp.com.r3xxe.eu.cc&path=%2Fid-tksi#LTE 🇨🇦 #001 @FreeCFGHub
 vless://878352ed-8eef-4dd6-a44e-21e66164a67d@104.17.3.81:80?encryption=none&security=none&type=ws&host=r3xxe.eu.cc&path=%2Fid-pusat#LTE 🇨🇦 #002 @FreeCFGHub
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@188.114.96.3:80?encryption=none&security=none&type=ws&host=main.boobie.eu.cc&path=%2F#LTE 🇨🇦 #003 @FreeCFGHub
@@ -23,8 +22,6 @@ vless://e0f64e0b-ecb7-43fa-803b-99b728e54128@51.250.66.119:443?encryption=none&f
 vless://e0f64e0b-ecb7-43fa-803b-99b728e54128@84.201.170.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=A-Osft0F8ZlHRA6D3rjuEebeac_-vGIOZkrTOdEZjiA&sid=f9b6823bf4858816&type=tcp&headerType=none#LTE 🇷🇺 #020 @FreeCFGHub
 vless://3fd28704-112e-4451-8c5f-d6657f8ecf44@54.169.248.107:29746?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=firefox&pbk=s1u_Iy1x_b1Ph9Tp3a7xdekHcbcqGy7VA4BpQtJ-mE0&sid=86c4bf418676a6e2&spx=%2F&type=tcp&headerType=none#LTE 🇸🇬 #021 @FreeCFGHub
 vless://a16bb742-7c22-4be2-878c-78d49b6bcb03@54.184.242.113:58578?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=kq3GiVroRamDJmiMQiTGI8xd3ZRAPwUjVvLr3FrTEiY&sid=1dc9bbf0c627&spx=%2F&type=tcp&headerType=none#LTE 🇺🇸 #022 @FreeCFGHub
-
-=== FULL ===
 vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?encryption=none&security=reality&sni=5post-gate.x5.ru&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&type=grpc#FULL 🇧🇾 #001 @FreeCFGHub
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.240:443?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc#FULL 🇨🇦 #002 @FreeCFGHub
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.215:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#FULL 🇨🇦 #003 @FreeCFGHub
